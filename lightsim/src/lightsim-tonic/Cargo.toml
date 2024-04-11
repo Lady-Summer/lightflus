@@ -1,0 +1,4 @@
+[package]
+name = "lightslim-tonic"
+version = "1.0.0-alpha"
+edition = "2021"

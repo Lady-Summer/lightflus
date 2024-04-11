@@ -1,0 +1,2 @@
+[workspace]
+members = ["src/lightsim-rdkafka", "src/lightsim-tonic"]
